@@ -44,9 +44,10 @@ def max_marks(list1):
 ``````
 
 ## Output:
-![output](/FindMaximum/out-1%20(1).png) 
-![output](/FindMaximum/out-1%20(2).png) 
-![output](/FindMaximum/out-1%20(3).png) 
+![output](/FindMaximum/out-1%20(1).png)
+![output](/FindMaximum/out-1%20(2).png)
+![output](/FindMaximum/out-1%20(3).png)
+
 
 
 ## Result:
