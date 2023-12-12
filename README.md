@@ -44,9 +44,15 @@ def max_marks(list1):
 ``````
 
 ## Output:
-![output](/FindMaximum/out-1%20(1).png)
-![output](/FindMaximum/img/out-1%20(2).png)
-![output](/FindMaximum/img/out-1%20(3).png)
+![image](https://github.com/Vickyy-0/FindMaximum/assets/110780412/4e117486-30a8-4241-a994-2dd88693919d)
+![image](https://github.com/Vickyy-0/FindMaximum/assets/110780412/681feee5-be7e-4656-9eb0-e65d84097d85)
+![image](https://github.com/Vickyy-0/FindMaximum/assets/110780412/e675e87f-2ed0-4efa-aef9-4b3ed4790690)
+
+
+
+
+
+
 
 
 
